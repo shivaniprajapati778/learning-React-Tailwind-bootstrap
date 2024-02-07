@@ -1,0 +1,15 @@
+.food-heading {
+  text-align: center;
+  color: green;
+  margin-bottom: 15px;
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 400px;
+  min-width: 200px;
+  padding: 15px;
+}
+.kg-span {
+  font-weight: 600;
+  color: white;
+  
+}

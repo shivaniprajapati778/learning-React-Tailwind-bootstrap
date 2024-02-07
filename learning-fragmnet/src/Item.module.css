@@ -1,0 +1,14 @@
+.kg-item {
+  color: rgb(134, 21, 240);
+  margin-bottom: 15px;
+  border: 1px solid black;
+  border-radius: 0px;
+  width: 400px;
+  min-width: 200px;
+  padding-right:  15px;
+}
+
+.button {
+  float: right;
+  margin: 1px;
+}
